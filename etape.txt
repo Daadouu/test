@@ -5,3 +5,18 @@ Récupère un dépôt distant
 git push
 
 pousse commit
+
+git pull 
+
+tirer les modifications du serveur vers la machine
+git pull éxécute deux commandes
+
+	-git fetch
+	-git rebase
+
+git pull-request
+etapes:
+-creer un fork du projet
+-creer une nouvelle branche 
+-faire ses modifications et commit
+- ouvrir un pull request sur le projet original
