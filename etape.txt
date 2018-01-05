@@ -1,0 +1,3 @@
+git clone https://github.com/Daadouu/test.git
+
+Récupère un dépôt distant
